@@ -1,5 +1,7 @@
 # DC Client
 
+> 本项目代码完全由 DeepSeek + OpenCode 开发
+
 DC Server 的终端客户端，基于 [Textual](https://textual.textualize.io/) 构建的美观 TUI 界面。
 
 ## 功能特性
