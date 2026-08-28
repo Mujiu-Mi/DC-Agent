@@ -1,0 +1,19 @@
+{
+  "model": "model_1",
+  "models": {
+    "model_1": {
+      "接口": "openai",
+      "model_name": "deepseek-v4-flash",
+      "api_key": "YOUR_API_KEY_HERE",
+      "url": "https://api.deepseek.com/v1"
+    }
+  },
+  "auto_think": true,
+  "thinking": {
+    "mode": "enabled",
+    "effort": "high"
+  },
+  "server_host": "0.0.0.0",
+  "server_port": 8520,
+  "auto_audit": false
+}

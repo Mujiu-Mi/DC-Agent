@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Data & Memory (runtime data)
+data/
+agent_memory/
+
+# Sensitive Config (contains API keys)
+Config/Model.json
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
